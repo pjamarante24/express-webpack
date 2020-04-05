@@ -1,0 +1,26 @@
+{
+  "name": "express-webpack",
+  "version": "1.0.0",
+  "description": "Development with Hot Reload Module middleware for Express",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjamarante24/express-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "express",
+    "webpack-dev-middleware",
+    "webpack-hot-client",
+    "hmr"
+  ],
+  "author": "Pablo Amarante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjamarante24/express-webpack/issues"
+  },
+  "homepage": "https://github.com/pjamarante24/express-webpack#readme"
+}
