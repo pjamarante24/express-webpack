@@ -22,5 +22,16 @@
   "bugs": {
     "url": "https://github.com/pjamarante24/express-webpack/issues"
   },
-  "homepage": "https://github.com/pjamarante24/express-webpack#readme"
+  "homepage": "https://github.com/pjamarante24/express-webpack#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "webpack": "^4.42.1",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-hot-client": "^4.1.2"
+  },
+  "peerDependencies": {
+    "webpack": ">=4.42.1"
+  }
 }
