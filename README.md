@@ -53,11 +53,11 @@ const express = require('express')
 const expressWebpack = require('express-webpack')
 
 const config = {
-mode: 'development',
-entry: ['./src'],
-output: {
-    publicPath: '/',
-},
+	mode: 'development',
+	entry: ['./src'],
+	output: {
+		publicPath: '/',
+	},
 }
 
 const app = express()
