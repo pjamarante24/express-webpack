@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/pjamarante24/express-webpack#readme",
   "devDependencies": {
-    "eslint": "6.8.0"
+    "eslint": "9.13.0"
   },
   "dependencies": {
     "webpack": "^4.42.1",
