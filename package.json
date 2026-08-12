@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "webpack": "^4.42.1",
-    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-middleware": "^5.0.0",
     "webpack-hot-client": "^4.1.2"
   },
   "peerDependencies": {
